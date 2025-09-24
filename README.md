@@ -1,4 +1,8 @@
-# Files
+# AChavezCode
+Contains code written by Angel Chavez (UMN, chave389@umn.edu) to find stable configurations corresponding to non-Standard Young Tableau.
+Folder includes code as written by A. Chavez as well as results for various (k,m) pairs
+
+# Other Files
 
 ## sink-poset
 generates a poset of reachable states for chip-firing on a graph with sink
@@ -12,6 +16,9 @@ can give you lots of info about reachable states, the number of paths to a termi
 
 ## unwalled-poset
 generates a poset of reachable states for labeled chip-firing on ZZ
+
+## unlabeled instar
+code for the unlabeled underlying configurations
 
 ## walled-poset-booleans
 generates only the boolean sublattices from walled-poset
